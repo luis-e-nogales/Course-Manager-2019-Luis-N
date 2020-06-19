@@ -1,0 +1,4 @@
+math 200,L1A,30,tuesday,
+Geob 200,100,9,wednesday,urgent:hand in lab:10/12:false;
+cpsc 210,L1B,16,wednesday,regular:prepare for quiz:9/11:false;regular:do deliverable:11/11:true;
+cpsc 210,101,8,monday,regular:read:12/12:false;urgent:do webwork:9/10:false;

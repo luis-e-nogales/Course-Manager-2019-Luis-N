@@ -1,0 +1,12 @@
+cpsc 210,L1C,16,tuesday,
+math 200,115,9,tuesday,
+cpsc 221,103,18,wednesday,urgent:finish your webwork:28/11/2019:false;urgent:finish your webwork:28/11/2019:false;urgent:finish your webwork:28/11/2019:false;urgent:finish your webwork:28/11/2019:false;
+cpsc 221,100,14,wednesday,urgent:Assignment 1:30/11/2019:false;
+stats 251,200,17,thursday,
+math 200,115,9,thursday,
+arcl 140,100,9,friday,
+arcl 140,100,10,friday,
+math 201,100,18,friday,
+cpsc 210,101,11,monday,urgent:Do lab:10/8:false;regular:finish project:11/12:true;urgent:finish this stuff:8/11:true;urgent:do homework:28/11/2019:false;
+geob 200,100,10,monday,urgent:midterm:9/10:false;regular:finish assignment 2:11/10:false;
+arcl 140,L1A,16,monday,

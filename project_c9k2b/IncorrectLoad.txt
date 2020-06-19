@@ -1,0 +1,2 @@
+c:psc 2;10,10;1:,8,mon;d:ay,regular:read:12/12:false;urgent:do webwork:9/10:false;
+G;:;:eob 200,1::::::::;;00,9,tue:s;;d,,ay,urgent:hand in lab:10/12:false;
